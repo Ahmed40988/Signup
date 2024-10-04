@@ -1,0 +1,48 @@
+﻿@model WebApplication3.Models.Signup
+@{
+    ViewData["Title"] = "Signup";
+}
+
+<form method="post" action="/Signup/ADDnewuser" class="form-check">
+    <div>
+        <label>Name</label>
+        <input name="Name" type="text" value="@Model?.Name" class="form-control" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input name="Email" type="text" value="@Model?.Email" class="form-control" />
+    </div>
+    <div>
+        <label>Gender</label>
+        <select name="Gender" class="form-control">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+        </select>
+    </div>
+    <div>
+        <label>Password</label>
+        <input name="Password" type="password" class="form-control" />
+    </div>
+    <div>
+        <label>Confirm Password</label>
+        <input name="ConfirmPassword" type="password" class="form-control" />
+    </div>
+    <div>
+        <label>Phone</label>
+        <input name="Phone" type="text" class="form-control" />
+    </div>
+    <!-- Vodafone Cash -->
+    <div>
+        <label>Vodafone Cash</label>
+        <input name="vodafoneCash" id="vodafoneCash" type="text" class="form-control" />
+    </div>
+
+    <!-- InstaPay -->
+    <div>
+        <label>InstaPay</label>
+        <input name="instaPay" id="instaPay" type="text" class="form-control" />
+    </div>
+        <input type="submit" value="Sign Up" class="btn btn-primary" />
+</form>
+
+<a href="/" class="btn btn-secondary">Back to Home</a>
