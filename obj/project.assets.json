@@ -7722,11 +7722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "D:\\courses\\back end.net\\projects\\Signup\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "D:\\courses\\back end.net\\projects\\Signup\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication4\\obj\\",
+      "outputPath": "D:\\courses\\back end.net\\projects\\Signup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
