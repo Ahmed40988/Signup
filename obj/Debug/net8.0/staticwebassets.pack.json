@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\courses\\back end.net\\projects\\Signup\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Signup\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
       "Id": "D:\\courses\\back end.net\\projects\\Signup\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
